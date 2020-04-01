@@ -8,7 +8,9 @@
 更多KNN代码可参考对应文件夹[KNN最近邻](https://github.com/WhatAboutMyStar/MachineLearningAlgorithm/tree/master/KNN%E6%9C%80%E8%BF%91%E9%82%BB)
 
 ## LinearRegression
-对线性回归的直观理解可参考我的知乎文章[为什么线性回归也是神经网络](https://github.com/WhatAboutMyStar/MachineLearningAlgorithm/tree/master/KNN%E6%9C%80%E8%BF%91%E9%82%BB)
+对线性回归的直观理解可参考我的知乎文章[为什么线性回归也是神经网络](https://github.com/WhatAboutMyStar/MachineLearningAlgorithm/tree/master/KNN%E6%9C%80%E8%BF%91%E9%82%BB) <br>
+线性回归的代码实现可参考对应文件夹[LinearRegression线性回归](https://github.com/WhatAboutMyStar/MachineLearningAlgorithm/tree/master/LinearRegression%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92)
+
 
 ## LogisticRegression
 待续。。。
