@@ -9,6 +9,7 @@
 
 ## LinearRegression
 对线性回归的直观理解可参考我的知乎文章[为什么线性回归也是神经网络](https://github.com/WhatAboutMyStar/MachineLearningAlgorithm/tree/master/KNN%E6%9C%80%E8%BF%91%E9%82%BB) <br>
+对一元线性回归参数求解的推导过程可以参考我的知乎文章[一元线性回归](https://zhuanlan.zhihu.com/p/123339114) <br>
 线性回归的代码实现可参考对应文件夹[LinearRegression线性回归](https://github.com/WhatAboutMyStar/MachineLearningAlgorithm/tree/master/LinearRegression%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92)
 
 ## LogisticRegression
