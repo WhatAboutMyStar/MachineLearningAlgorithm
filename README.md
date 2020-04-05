@@ -18,7 +18,8 @@
 线性回归的代码实现可参考对应文件夹[LinearRegression线性回归](https://github.com/WhatAboutMyStar/MachineLearningAlgorithm/tree/master/LinearRegression%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92)
 
 ## GradientDescent
-待续。。。
+梯度下降的讲解可以参考我的知乎文章[梯度下降算法(附代码实现)](https://zhuanlan.zhihu.com/p/125744910) <br>
+具体实现代码可参考对应文件夹[GradientDescent梯度下降](https://github.com/WhatAboutMyStar/MachineLearningAlgorithm/tree/master/GradientDescent%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D)
 
 ## LogisticRegression
 待续。。。
