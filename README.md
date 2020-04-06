@@ -26,3 +26,12 @@
 
 ## PCA
 待续。。。
+
+## DecisonTree
+待续。。。
+
+## K-Means
+待续。。。
+
+## NaiveBayes
+待续。。。
