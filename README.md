@@ -22,7 +22,7 @@
 具体实现代码可参考对应文件夹[GradientDescent梯度下降](https://github.com/WhatAboutMyStar/MachineLearningAlgorithm/tree/master/GradientDescent%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D)
 
 ## LogisticRegression
-逻辑回归的讲解可参考我的知乎文章[LogisticRegression逻辑回归(附代码实现)](LogisticRegression逻辑回归(附代码实现))
+逻辑回归的讲解可参考我的知乎文章[LogisticRegression逻辑回归(附代码实现)](LogisticRegression逻辑回归(附代码实现)) <br>
 逻辑回归的具体代码实现可参考对应文件夹[LogisticRegression逻辑回归](https://github.com/WhatAboutMyStar/MachineLearningAlgorithm/tree/master/LogisticRegression%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92)
 
 ## PCA
