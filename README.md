@@ -26,7 +26,7 @@
 逻辑回归的具体代码实现可参考对应文件夹[LogisticRegression逻辑回归](https://github.com/WhatAboutMyStar/MachineLearningAlgorithm/tree/master/LogisticRegression%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92)
 
 ## PCA
-待续。。。
+PCA的具体代码实现可参考对应文件夹[PCA主成分分析](https://github.com/WhatAboutMyStar/MachineLearningAlgorithm/tree/master/PCA%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90) <br>
 
 ## DecisonTree
 待续。。。
