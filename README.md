@@ -36,3 +36,6 @@ PCA的具体代码实现可参考对应文件夹[PCA主成分分析](https://git
 
 ## NaiveBayes
 待续。。。
+
+## TinySklearn
+本项目的最终会实现一个微型机器学习框架，仿制sklearn的接口，实现部分sklearn实现的算法
