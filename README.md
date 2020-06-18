@@ -29,12 +29,15 @@
 PCA的具体代码实现可参考对应文件夹[PCA主成分分析](https://github.com/WhatAboutMyStar/MachineLearningAlgorithm/tree/master/PCA%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90) <br>
 
 ## DecisonTree
-待续。。。
+决策树的具体代码实现可参考对应文件夹[DecisionTree决策树](https://github.com/WhatAboutMyStar/MachineLearningAlgorithm/tree/master/DecisionTree%E5%86%B3%E7%AD%96%E6%A0%91) <br>
 
 ## K-Means
 待续。。。
 
 ## NaiveBayes
+待续。。。
+
+## Metrics
 待续。。。
 
 ## TinySklearn
