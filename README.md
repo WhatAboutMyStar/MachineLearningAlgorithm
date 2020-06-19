@@ -30,6 +30,7 @@ PCA的具体代码实现可参考对应文件夹[PCA主成分分析](https://git
 
 ## DecisonTree
 决策树的具体代码实现可参考对应文件夹[DecisionTree决策树](https://github.com/WhatAboutMyStar/MachineLearningAlgorithm/tree/master/DecisionTree%E5%86%B3%E7%AD%96%E6%A0%91) <br>
+决策树的讲解可参考我的知乎文章[决策树DecisionTree（附代码实现）](https://zhuanlan.zhihu.com/p/149510491)
 
 ## K-Means
 待续。。。
