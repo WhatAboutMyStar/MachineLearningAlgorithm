@@ -42,4 +42,6 @@ PCA的具体代码实现可参考对应文件夹[PCA主成分分析](https://git
 待续。。。
 
 ## TinySklearn
-本项目的最终会实现一个微型机器学习框架，仿制sklearn的接口，实现部分sklearn实现的算法
+本项目的最终会实现一个微型机器学习框架，仿制sklearn的接口，实现部分sklearn实现的算法 <br>
+具体实现代码在这[tinysklearn](https://github.com/WhatAboutMyStar/MachineLearningAlgorithm/tree/master/TinySklearn) <br>
+已上传到pypi，可做为第三方库直接下载[pypi地址](https://pypi.org/project/tinysklearn/)
