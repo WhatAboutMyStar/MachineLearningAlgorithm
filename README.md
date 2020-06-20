@@ -33,7 +33,7 @@ PCA的具体代码实现可参考对应文件夹[PCA主成分分析](https://git
 决策树的讲解可参考我的知乎文章[决策树DecisionTree（附代码实现）](https://zhuanlan.zhihu.com/p/149510491)
 
 ## K-Means
-待续。。。
+K-Means算法的具体实现代码可参考对应文件夹[K-Means聚类](https://github.com/WhatAboutMyStar/MachineLearningAlgorithm/tree/master/K-Means%E8%81%9A%E7%B1%BB) <br>
 
 ## NaiveBayes
 待续。。。
