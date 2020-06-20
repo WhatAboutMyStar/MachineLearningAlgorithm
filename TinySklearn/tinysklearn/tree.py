@@ -71,6 +71,9 @@ class DecisionTreeClassifier:
 			node.right = create_tree(x_right, y_right)
 			return node
 
+		assert len(x_train) == len(y_train), "x_train, y_train数量必须相同"
+		assert x_train.ndim == 2
+
 		self.root = create_tree(x_train, y_train)
 
 		return self
@@ -87,6 +90,9 @@ class DecisionTreeClassifier:
 				pred = counter.most_common(1)[0][0]
 			return pred
 
+		assert self.root is not None, "必须先fit"
+		assert x_predict.ndim == 2
+
 		y_predict = []
 		for data in x_predict:
 			y_pred = travel(data, self.root)
@@ -94,6 +100,9 @@ class DecisionTreeClassifier:
 		return np.array(y_predict)
 
 	def score(self, x_test, y_test):
+		assert len(x_test) == len(y_test), "x,y数量必须相同"
+		assert x_test.ndim == 2
+
 		y_predict = self.predict(x_test)
 		return accuracy_score(y_predict, y_test)
 
