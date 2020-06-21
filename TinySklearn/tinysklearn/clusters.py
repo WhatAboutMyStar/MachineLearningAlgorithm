@@ -32,7 +32,7 @@ class KMeans:
 				label.append(flag)
 
 			for i in range(self.n_cluster):
-				new_centroid = np.zeros(2)
+				new_centroid = np.zeros(x_train.shape[1])
 				cnt = 0
 				for index, data in enumerate(x_train):
 					if label[index] == i:
