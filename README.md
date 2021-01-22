@@ -36,7 +36,7 @@ PCA的具体代码实现可参考对应文件夹[PCA主成分分析](https://git
 K-Means算法的具体实现代码可参考对应文件夹[K-Means聚类](https://github.com/WhatAboutMyStar/MachineLearningAlgorithm/tree/master/K-Means%E8%81%9A%E7%B1%BB) <br>
 
 ## NaiveBayes
-待续。。。
+NaiveBayes算法的具体实现可参考对应文件夹[NaiveBayes朴素贝叶斯](https://github.com/WhatAboutMyStar/MachineLearningAlgorithm/tree/master/NaiveBayes%E6%9C%B4%E7%B4%A0%E8%B4%9D%E5%8F%B6%E6%96%AF)
 
 ## Metrics
 待续。。。
